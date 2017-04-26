@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BoredBoard</string>
+    <string name="action_filters">Filter Activities</string>
+    <string name="cancel">cancel</string>
+    <string name="apply">apply</string>
+    <string name="filters_title">Filters</string>
+    <string name="max_cost_label">Max Cost: $10</string>
+    <string name="max_cost_hint">10</string>
+    <string name="max_distance_label">Max Distance: 20 miles</string>
+    <string name="max_distance_hint">20</string>
+    <string name="max_time_label">Activity Time: (hr)</string>
+    <string name="max_time_label_info">activity time: </string>
+    <string name="hours">hour(s)</string>
+    <string name="indoor">Indoor</string>
+    <string name="outdoor">Outdoor</string>
+    <string name="directions">directions</string>
+    <string name="description_label">description:</string>
+    <string name="cost_label">cost: </string>
+    <string name="location_label">location:</string>
+    <string name="miles">mile(s)</string>
+    <string name="party_size_label">Party Size: </string>
+    <string-array name="distance_array">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+        <item>50</item>
+        <item>100</item>
+    </string-array>
+</resources>

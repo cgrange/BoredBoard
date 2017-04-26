@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="available_filters">time, indoor, outdoor, distance, cost</array>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "43191560079",
+    "firebase_url": "https://boredboard-833a7.firebaseio.com",
+    "project_id": "boredboard-833a7",
+    "storage_bucket": "boredboard-833a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43191560079:android:b287f38aa69f60ae",
+        "android_client_info": {
+          "package_name": "net.boredboard.boredboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43191560079-3l2uvpfbqp2bik0nm1eqmfhjgrcu93g9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.boredboard.boredboard",
+            "certificate_hash": "33a33cc93efa2176df7e3eb90c06ca3f7ecb3700"
+          }
+        },
+        {
+          "client_id": "43191560079-uetr519n8vjfmdnagmq18dkgp6rtt9tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiKqJTehskYmxNa6qLJsatNDiEOlozlTU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43191560079-uetr519n8vjfmdnagmq18dkgp6rtt9tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#67688c</color>
+    <color name="primaryDark">#494a63</color>
+    <color name="primaryLight">#9092ce</color>
+    <color name="accent">#26d391</color>
+    <color name="colorPrimary">#67688c</color>
+    <color name="colorPrimaryDark">#494a63</color>
+    <color name="colorPrimaryLight">#9092ce</color>
+    <color name="colorAccent">#26d391</color>
+    <color name="btn_pressed">#77777777</color>
+    <color name="btn_unpressed">#dddddddd</color>
+    <color name="white">#ffffff</color>
+</resources>
